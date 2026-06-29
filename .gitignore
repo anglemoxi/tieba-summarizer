@@ -1,0 +1,29 @@
+# 敏感配置
+.env
+.tieba_cookies.json
+
+# 浏览器数据
+.browser_data/
+
+# 调试文件
+debug_page.html
+debug_*.html
+
+# 输出目录（抓取内容）
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
